@@ -1,4 +1,5 @@
-package com.correiabruno.workshopmongo;
+
+package com.correiabruno.workshopmongo.resources;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +10,4 @@ public class WorkshopmongoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WorkshopmongoApplication.class, args);
 	}
-
 }
